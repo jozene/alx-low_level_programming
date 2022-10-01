@@ -1,1 +1,1 @@
-pointers
+static_libraries
